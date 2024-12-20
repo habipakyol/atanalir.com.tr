@@ -105,4 +105,4 @@ AtanAlır, Premier League maçları için gerçek zamanlı sohbet imkânı sunan
 - Detaylı dokümantasyon
 - Temiz kod prensipleri
 
-Bu proje, modern web teknolojilerini kullanarak gerçek zamanlı bir uygulama geliştirme sücrecini kapsamlı bir şekilde ele almaktadır. Kullanıcı deneyiminden güvenliğe, performanstan ölçeklenebilirliğe kadar tüm kritik unsurlar göz önünde bulundurularak tasarlanmıştır.
+Bu proje, modern web teknolojilerini kullanarak gerçek zamanlı bir uygulama geliştirme sücrecini kapsamlı bir şekilde ele almaktadır. Geliştirilmeye devam edecektir. Azure ile bağlantılı olan proje private şekilde bulunmaktadır. Projede değişiklikler yapmak ve yardımcı olmak için habipakyol003@gmail.com adresine mail atınız.
