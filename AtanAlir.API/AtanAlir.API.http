@@ -1,0 +1,6 @@
+@AtanAlir.API_HostAddress = 
+
+GET {{AtanAlir.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
